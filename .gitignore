@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Pygame specific
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
